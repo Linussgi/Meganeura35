@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meganeura35
+- 👋 Hi, I’m @Linussgi
 - 👀 I’m studying chemical engineering at university
 - 🌱 I’m currently learning python (slowly)
 <!---
